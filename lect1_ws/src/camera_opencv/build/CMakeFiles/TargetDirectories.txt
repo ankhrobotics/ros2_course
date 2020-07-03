@@ -1,9 +1,0 @@
-/home/hema/ankhrobotics.github.io/Lectures/ros2_course/lect1_ws/src/camera_opencv/build/CMakeFiles/install/strip.dir
-/home/hema/ankhrobotics.github.io/Lectures/ros2_course/lect1_ws/src/camera_opencv/build/CMakeFiles/install/local.dir
-/home/hema/ankhrobotics.github.io/Lectures/ros2_course/lect1_ws/src/camera_opencv/build/CMakeFiles/install.dir
-/home/hema/ankhrobotics.github.io/Lectures/ros2_course/lect1_ws/src/camera_opencv/build/CMakeFiles/list_install_components.dir
-/home/hema/ankhrobotics.github.io/Lectures/ros2_course/lect1_ws/src/camera_opencv/build/CMakeFiles/rebuild_cache.dir
-/home/hema/ankhrobotics.github.io/Lectures/ros2_course/lect1_ws/src/camera_opencv/build/CMakeFiles/uninstall.dir
-/home/hema/ankhrobotics.github.io/Lectures/ros2_course/lect1_ws/src/camera_opencv/build/CMakeFiles/camera.dir
-/home/hema/ankhrobotics.github.io/Lectures/ros2_course/lect1_ws/src/camera_opencv/build/CMakeFiles/test.dir
-/home/hema/ankhrobotics.github.io/Lectures/ros2_course/lect1_ws/src/camera_opencv/build/CMakeFiles/edit_cache.dir
