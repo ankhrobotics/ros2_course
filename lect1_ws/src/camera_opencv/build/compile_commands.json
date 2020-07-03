@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/hema/ankhrobotics.github.io/Lectures/ros2_course/lect1_ws/src/camera_opencv/build",
+  "command": "/usr/bin/g++-8  -DPOCO_NO_AUTOMATIC_LIBS -I../include -I/opt/ros/dashing/include -isystem /usr/local/include/opencv4  -g   -Wall -Wextra -Wpedantic -std=gnu++14 -o CMakeFiles/camera.dir/src/camera.cpp.o -c /home/hema/ankhrobotics.github.io/Lectures/ros2_course/lect1_ws/src/camera_opencv/src/camera.cpp",
+  "file": "/home/hema/ankhrobotics.github.io/Lectures/ros2_course/lect1_ws/src/camera_opencv/src/camera.cpp"
+}
+]

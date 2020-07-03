@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/hema/ankhrobotics.github.io/Lectures/ros2_course/lect1_ws/src/camera_opencv/include/**",
+                "include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "cStandard": "c11",
+            "cppStandard": "gnu++14",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}
