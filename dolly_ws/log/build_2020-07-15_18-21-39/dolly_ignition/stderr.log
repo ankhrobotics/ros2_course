@@ -1,0 +1,4 @@
+[0.624s] CMake Warning at CMakeLists.txt:8 (message):
+[0.625s]   Ignition Gazebo 3 not found, proceeding without that simulator.
+[0.625s] 
+[0.625s] 

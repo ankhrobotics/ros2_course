@@ -1,0 +1,24 @@
+[0.038s] Invoking command in '/home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/build/dolly_follow': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/eloquent /usr/local/bin/cmake --build /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/build/dolly_follow -- -j4 -l4
+[0.057s] [100%] Built target dolly_follow
+[0.059s] Invoked command in '/home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/build/dolly_follow' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/eloquent /usr/local/bin/cmake --build /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/build/dolly_follow -- -j4 -l4
+[0.079s] Invoking command in '/home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/build/dolly_follow': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/eloquent /usr/local/bin/cmake --build /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/build/dolly_follow --target install -- -j4 -l4
+[0.098s] [100%] Built target dolly_follow
+[0.103s] [36mInstall the project...[0m
+[0.105s] -- Install configuration: ""
+[0.105s] -- Up-to-date: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_follow/lib/dolly_follow/dolly_follow
+[0.105s] -- Up-to-date: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_follow/share/ament_index/resource_index/package_run_dependencies/dolly_follow
+[0.106s] -- Up-to-date: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_follow/share/ament_index/resource_index/parent_prefix_path/dolly_follow
+[0.106s] -- Up-to-date: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_follow/share/dolly_follow/environment/ament_prefix_path.sh
+[0.106s] -- Up-to-date: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_follow/share/dolly_follow/environment/ament_prefix_path.dsv
+[0.106s] -- Up-to-date: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_follow/share/dolly_follow/environment/path.sh
+[0.106s] -- Up-to-date: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_follow/share/dolly_follow/environment/path.dsv
+[0.106s] -- Up-to-date: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_follow/share/dolly_follow/local_setup.bash
+[0.106s] -- Up-to-date: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_follow/share/dolly_follow/local_setup.sh
+[0.106s] -- Up-to-date: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_follow/share/dolly_follow/local_setup.zsh
+[0.107s] -- Up-to-date: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_follow/share/dolly_follow/local_setup.dsv
+[0.107s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_follow/share/dolly_follow/package.dsv
+[0.107s] -- Up-to-date: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_follow/share/ament_index/resource_index/packages/dolly_follow
+[0.107s] -- Up-to-date: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_follow/share/dolly_follow/cmake/dolly_followConfig.cmake
+[0.107s] -- Up-to-date: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_follow/share/dolly_follow/cmake/dolly_followConfig-version.cmake
+[0.107s] -- Up-to-date: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_follow/share/dolly_follow/package.xml
+[0.112s] Invoked command in '/home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/build/dolly_follow' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/eloquent /usr/local/bin/cmake --build /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/build/dolly_follow --target install -- -j4 -l4

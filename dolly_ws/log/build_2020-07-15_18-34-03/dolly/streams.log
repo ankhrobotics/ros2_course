@@ -1,0 +1,21 @@
+[0.011s] Invoking command in '/home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/build/dolly': CMAKE_PREFIX_PATH=/home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo:/home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_follow:/home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly:/opt/ros/eloquent /usr/local/bin/cmake --build /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/build/dolly -- -j4 -l4
+[0.023s] Invoked command in '/home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/build/dolly' returned '0': CMAKE_PREFIX_PATH=/home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo:/home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_follow:/home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly:/opt/ros/eloquent /usr/local/bin/cmake --build /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/build/dolly -- -j4 -l4
+[0.040s] Invoking command in '/home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/build/dolly': CMAKE_PREFIX_PATH=/home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo:/home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_follow:/home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly:/opt/ros/eloquent /usr/local/bin/cmake --build /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/build/dolly --target install -- -j4 -l4
+[0.054s] [36mInstall the project...[0m
+[0.056s] -- Install configuration: ""
+[0.056s] -- Up-to-date: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly/share/ament_index/resource_index/package_run_dependencies/dolly
+[0.056s] -- Up-to-date: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly/share/ament_index/resource_index/parent_prefix_path/dolly
+[0.057s] -- Up-to-date: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly/share/dolly/environment/ament_prefix_path.sh
+[0.057s] -- Up-to-date: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly/share/dolly/environment/ament_prefix_path.dsv
+[0.057s] -- Up-to-date: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly/share/dolly/environment/path.sh
+[0.057s] -- Up-to-date: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly/share/dolly/environment/path.dsv
+[0.057s] -- Up-to-date: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly/share/dolly/local_setup.bash
+[0.057s] -- Up-to-date: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly/share/dolly/local_setup.sh
+[0.057s] -- Up-to-date: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly/share/dolly/local_setup.zsh
+[0.057s] -- Up-to-date: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly/share/dolly/local_setup.dsv
+[0.057s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly/share/dolly/package.dsv
+[0.058s] -- Up-to-date: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly/share/ament_index/resource_index/packages/dolly
+[0.058s] -- Up-to-date: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly/share/dolly/cmake/dollyConfig.cmake
+[0.058s] -- Up-to-date: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly/share/dolly/cmake/dollyConfig-version.cmake
+[0.058s] -- Up-to-date: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly/share/dolly/package.xml
+[0.068s] Invoked command in '/home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/build/dolly' returned '0': CMAKE_PREFIX_PATH=/home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo:/home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_follow:/home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly:/opt/ros/eloquent /usr/local/bin/cmake --build /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/build/dolly --target install -- -j4 -l4

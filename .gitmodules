@@ -1,0 +1,3 @@
+[submodule "dolly_ws/src/dolly"]
+	path = dolly_ws/src/dolly
+	url = https://github.com/chapulina/dolly.git

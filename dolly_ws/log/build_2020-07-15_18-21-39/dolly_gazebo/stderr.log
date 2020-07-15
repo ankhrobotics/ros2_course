@@ -1,0 +1,11 @@
+[0.612s] CMake Warning (dev) at /opt/cmake-3.17.0-Linux-x86_64/share/cmake-3.17/Modules/FindPackageHandleStandardArgs.cmake:272 (message):
+[0.612s]   The package name passed to `find_package_handle_standard_args` (PkgConfig)
+[0.612s]   does not match the name of the calling package (gazebo).  This can lead to
+[0.612s]   problems in calling code that expects `find_package` result variables
+[0.612s]   (e.g., `_FOUND`) to follow a certain pattern.
+[0.612s] Call Stack (most recent call first):
+[0.612s]   /opt/cmake-3.17.0-Linux-x86_64/share/cmake-3.17/Modules/FindPkgConfig.cmake:45 (find_package_handle_standard_args)
+[0.613s]   /usr/lib/x86_64-linux-gnu/cmake/gazebo/gazebo-config.cmake:30 (include)
+[0.613s]   CMakeLists.txt:6 (find_package)
+[0.613s] This warning is for project developers.  Use -Wno-dev to suppress it.
+[0.613s] 

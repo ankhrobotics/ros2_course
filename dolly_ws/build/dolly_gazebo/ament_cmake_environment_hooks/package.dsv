@@ -1,0 +1,4 @@
+source;share/dolly_gazebo/local_setup.bash
+source;share/dolly_gazebo/local_setup.dsv
+source;share/dolly_gazebo/local_setup.sh
+source;share/dolly_gazebo/local_setup.zsh

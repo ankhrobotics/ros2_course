@@ -1,0 +1,193 @@
+[0.121s] -- The C compiler identification is GNU 8.4.0
+[0.217s] -- The CXX compiler identification is GNU 8.4.0
+[0.223s] -- Check for working C compiler: /usr/bin/cc
+[0.308s] -- Check for working C compiler: /usr/bin/cc - works
+[0.310s] -- Detecting C compiler ABI info
+[0.377s] -- Detecting C compiler ABI info - done
+[0.396s] -- Detecting C compile features
+[0.397s] -- Detecting C compile features - done
+[0.402s] -- Check for working CXX compiler: /usr/bin/c++
+[0.485s] -- Check for working CXX compiler: /usr/bin/c++ - works
+[0.487s] -- Detecting CXX compiler ABI info
+[0.570s] -- Detecting CXX compiler ABI info - done
+[0.592s] -- Detecting CXX compile features
+[0.592s] -- Detecting CXX compile features - done
+[0.614s] -- Found PkgConfig: /usr/bin/pkg-config (found version "0.29.1") 
+[0.623s] -- Checking for module 'bullet>=2.82'
+[0.651s] --   Found bullet, version 2.87
+[0.720s] -- Found Simbody: /usr/include/simbody  
+[0.780s] -- Looking for pthread.h
+[0.845s] -- Looking for pthread.h - found
+[0.845s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.912s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[0.912s] -- Looking for pthread_create in pthreads
+[0.958s] -- Looking for pthread_create in pthreads - not found
+[0.958s] -- Looking for pthread_create in pthread
+[1.012s] -- Looking for pthread_create in pthread - found
+[1.013s] -- Found Threads: TRUE  
+[1.104s] -- Found Boost: /usr/include (found suitable version "1.65.1", minimum required is "1.40.0") found components: thread system filesystem program_options regex iostreams date_time chrono atomic 
+[1.140s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so;-lpthread (found version "3.0.0") 
+[1.178s] -- Found Boost: /usr/include (found version "1.65.1")  
+[1.180s] -- Looking for OGRE...
+[1.181s] -- OGRE_PREFIX_WATCH changed.
+[1.185s] -- Checking for module 'OGRE'
+[1.201s] --   Found OGRE, version 1.9.0
+[1.247s] -- Found Ogre Ghadamon (1.9.0)
+[1.256s] -- Found OGRE: optimized;/usr/lib/x86_64-linux-gnu/libOgreMain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreMain.so
+[1.304s] -- Looking for OGRE_Paging...
+[1.313s] -- Found OGRE_Paging: optimized;/usr/lib/x86_64-linux-gnu/libOgrePaging.so;debug;/usr/lib/x86_64-linux-gnu/libOgrePaging.so
+[1.314s] -- Looking for OGRE_Terrain...
+[1.320s] -- Found OGRE_Terrain: optimized;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so
+[1.321s] -- Looking for OGRE_Property...
+[1.328s] -- Found OGRE_Property: optimized;/usr/lib/x86_64-linux-gnu/libOgreProperty.so;debug;/usr/lib/x86_64-linux-gnu/libOgreProperty.so
+[1.328s] -- Looking for OGRE_RTShaderSystem...
+[1.335s] -- Found OGRE_RTShaderSystem: optimized;/usr/lib/x86_64-linux-gnu/libOgreRTShaderSystem.so;debug;/usr/lib/x86_64-linux-gnu/libOgreRTShaderSystem.so
+[1.336s] -- Looking for OGRE_Volume...
+[1.343s] -- Found OGRE_Volume: optimized;/usr/lib/x86_64-linux-gnu/libOgreVolume.so;debug;/usr/lib/x86_64-linux-gnu/libOgreVolume.so
+[1.344s] -- Looking for OGRE_Overlay...
+[1.350s] -- Found OGRE_Overlay: optimized;/usr/lib/x86_64-linux-gnu/libOgreOverlay.so;debug;/usr/lib/x86_64-linux-gnu/libOgreOverlay.so
+[1.526s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so;-lpthread (found suitable version "3.0.0", minimum required is "2.3.0") 
+[1.538s] -- Config-file not installed for ZeroMQ -- checking for pkg-config
+[1.542s] -- Checking for module 'libzmq >= 4'
+[1.559s] --   Found libzmq , version 4.2.5
+[1.601s] -- Found ZeroMQ: TRUE (Required is at least version "4") 
+[1.608s] -- Checking for module 'uuid'
+[1.624s] --   Found uuid, version 2.31.1
+[1.669s] -- Found UUID: TRUE  
+[1.711s] -- Checking for module 'tinyxml2'
+[1.729s] --   Found tinyxml2, version 6.0.0
+[1.772s] -- Looking for dlfcn.h - found
+[1.773s] -- Looking for libdl - found
+[1.775s] -- Found DL: TRUE  
+[1.776s] -- FreeImage.pc not found, we will search for FreeImage_INCLUDE_DIRS and FreeImage_LIBRARIES
+[1.843s] -- Found UUID: TRUE  
+[1.855s] -- Checking for module 'gts'
+[1.889s] --   Found gts, version 0.7.6
+[1.966s] -- Found GTS: TRUE  
+[1.972s] -- Checking for module 'libswscale'
+[1.989s] --   Found libswscale, version 5.3.100
+[2.034s] -- Found SWSCALE: TRUE  
+[2.040s] -- Checking for module 'libavdevice >= 56.4.100'
+[2.058s] --   Found libavdevice , version 58.5.100
+[2.105s] -- Found AVDEVICE: TRUE (Required is at least version "56.4.100") 
+[2.111s] -- Checking for module 'libavformat'
+[2.128s] --   Found libavformat, version 58.20.100
+[2.173s] -- Found AVFORMAT: TRUE  
+[2.178s] -- Checking for module 'libavcodec'
+[2.195s] --   Found libavcodec, version 58.35.100
+[2.241s] -- Found AVCODEC: TRUE  
+[2.248s] -- Checking for module 'libavutil'
+[2.266s] --   Found libavutil, version 56.22.100
+[2.310s] -- Found AVUTIL: TRUE  
+[2.404s] -- Found CURL: /usr/lib/x86_64-linux-gnu/libcurl.so (found version "7.58.0")  
+[2.415s] -- Checking for module 'jsoncpp'
+[2.437s] --   Found jsoncpp, version 1.7.4
+[2.486s] -- Found JSONCPP: TRUE  
+[2.493s] -- Checking for module 'libzip'
+[2.510s] --   Found libzip, version 1.1.2
+[2.559s] -- Found ZIP: TRUE  
+[2.561s] -- Found ament_cmake: 0.8.2 (/opt/ros/eloquent/share/ament_cmake/cmake)
+[2.597s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[2.597s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.979s] -- Found ament_lint_auto: 0.8.1 (/opt/ros/eloquent/share/ament_lint_auto/cmake)
+[3.077s] -- Added test 'copyright' to check for copyright in CMake / C / C++ / Python code
+[3.086s] -- Added test 'flake8' to check Python code syntax and style conventions
+[3.087s] -- Added test 'lint_cmake' to check CMake code style
+[3.088s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[3.093s] -- Added test 'xmllint' to check XML markup files
+[3.095s] -- Configuring done
+[3.100s] -- Generating done
+[3.102s] -- Build files have been written to: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/build/dolly_gazebo
+[3.177s] [36mInstall the project...[0m
+[3.179s] -- Install configuration: ""
+[3.180s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//launch
+[3.180s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//launch/dolly.launch.py
+[3.180s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models
+[3.180s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/ocean
+[3.180s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/ocean/mesh_below.dae
+[3.181s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/ocean/model.sdf
+[3.181s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/ocean/mesh-simple.dae
+[3.181s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/ocean/model.config
+[3.181s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/ocean/materials
+[3.181s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/ocean/materials/textures
+[3.181s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/ocean/materials/textures/clouds_lf.jpg
+[3.181s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/ocean/materials/textures/clouds_fr.jpg
+[3.182s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/ocean/materials/textures/soil_sand_0045_01.jpg
+[3.186s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/ocean/materials/textures/clouds.jpg
+[3.186s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/ocean/materials/textures/normals.dds
+[3.186s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/ocean/materials/textures/clouds_bk.jpg
+[3.186s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/ocean/materials/textures/clouds_rt.jpg
+[3.187s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/ocean/materials/textures/clouds_up.jpg
+[3.187s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/ocean/materials/textures/License and source soil_sand_0045_01.txt
+[3.187s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/ocean/materials/textures/clouds_dn.jpg
+[3.187s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/ocean/materials/programs
+[3.187s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/ocean/materials/programs/GLSL
+[3.187s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/ocean/materials/programs/GLSL/Waves.frag
+[3.187s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/ocean/materials/programs/GLSL/Waves.vert
+[3.187s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/ocean/materials/scripts
+[3.188s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/ocean/materials/scripts/ocean.material
+[3.188s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/ocean/mesh.dae
+[3.188s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/ocean/mesh.blend
+[3.190s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/dolly
+[3.190s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/dolly/model.sdf
+[3.190s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/dolly/model.config
+[3.190s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/dolly/materials
+[3.190s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/dolly/materials/textures
+[3.190s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/dolly/materials/textures/sheep.jpg
+[3.191s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/dolly/materials/scripts
+[3.191s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/dolly/materials/scripts/script.material
+[3.191s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/city_terrain
+[3.191s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/city_terrain/model.sdf
+[3.191s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/city_terrain/model.config
+[3.191s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/city_terrain/materials
+[3.192s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/city_terrain/materials/textures
+[3.192s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/city_terrain/materials/textures/forest.jpg
+[3.195s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/city_terrain/materials/textures/city_terrain.jpg
+[3.195s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/city_terrain/materials/textures/city_terrain (original).jpg
+[3.196s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/casual_female
+[3.196s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/casual_female/thumbnails
+[3.196s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/casual_female/thumbnails/3.png
+[3.196s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/casual_female/thumbnails/5.png
+[3.196s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/casual_female/thumbnails/4.png
+[3.197s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/casual_female/thumbnails/2.png
+[3.197s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/casual_female/thumbnails/1.png
+[3.197s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/casual_female/model.sdf
+[3.197s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/casual_female/model.config
+[3.197s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/casual_female/materials
+[3.197s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/casual_female/materials/textures
+[3.197s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/casual_female/materials/textures/female_casualsuit02_diffuse.png
+[3.201s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/casual_female/materials/textures/female_casualsuit01_diffuse.png
+[3.204s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/casual_female/materials/textures/shoes05_diffuse.png
+[3.205s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/casual_female/materials/textures/casual_female.png
+[3.206s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/casual_female/materials/textures/female_casualsuit01_normal.png
+[3.212s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/casual_female/materials/textures/ponytail01_diffuse.png
+[3.216s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/casual_female/materials/textures/female_casualsuit02_normal.png
+[3.217s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/casual_female/materials/textures/eyebrow002.png
+[3.218s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/casual_female/materials/textures/young_lightskinned_female_diffuse.png
+[3.222s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/casual_female/materials/textures/brown_eye.png
+[3.223s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/casual_female/materials/textures/eyelashes01.png
+[3.223s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/casual_female/materials/textures/tongue01_diffuse.png
+[3.224s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/casual_female/meshes
+[3.224s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//models/casual_female/meshes/casual_female.dae
+[3.227s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//rviz
+[3.228s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//rviz/dolly_gazebo.rviz
+[3.228s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//worlds
+[3.228s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//worlds/dolly_city.world
+[3.228s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo//worlds/dolly_empty.world
+[3.229s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo/environment/dolly_gazebo.sh
+[3.229s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo/environment/dolly_gazebo.dsv
+[3.229s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/ament_index/resource_index/package_run_dependencies/dolly_gazebo
+[3.229s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/ament_index/resource_index/parent_prefix_path/dolly_gazebo
+[3.229s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo/environment/ament_prefix_path.sh
+[3.229s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo/environment/ament_prefix_path.dsv
+[3.230s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo/environment/path.sh
+[3.230s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo/environment/path.dsv
+[3.230s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo/local_setup.bash
+[3.230s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo/local_setup.sh
+[3.230s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo/local_setup.zsh
+[3.230s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo/local_setup.dsv
+[3.231s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo/package.dsv
+[3.231s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/ament_index/resource_index/packages/dolly_gazebo
+[3.231s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo/cmake/dolly_gazeboConfig.cmake
+[3.231s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo/cmake/dolly_gazeboConfig-version.cmake
+[3.231s] -- Installing: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/install/dolly_gazebo/share/dolly_gazebo/package.xml

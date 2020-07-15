@@ -1,0 +1,21 @@
+[0.137s] -- The C compiler identification is GNU 8.4.0
+[0.233s] -- The CXX compiler identification is GNU 8.4.0
+[0.239s] -- Check for working C compiler: /usr/bin/cc
+[0.308s] -- Check for working C compiler: /usr/bin/cc - works
+[0.310s] -- Detecting C compiler ABI info
+[0.374s] -- Detecting C compiler ABI info - done
+[0.395s] -- Detecting C compile features
+[0.396s] -- Detecting C compile features - done
+[0.400s] -- Check for working CXX compiler: /usr/bin/c++
+[0.489s] -- Check for working CXX compiler: /usr/bin/c++ - works
+[0.491s] -- Detecting CXX compiler ABI info
+[0.590s] -- Detecting CXX compiler ABI info - done
+[0.608s] -- Detecting CXX compile features
+[0.609s] -- Detecting CXX compile features - done
+[0.624s] CMake Warning at CMakeLists.txt:8 (message):
+[0.625s]   Ignition Gazebo 3 not found, proceeding without that simulator.
+[0.625s] 
+[0.625s] 
+[0.625s] -- Configuring done
+[0.626s] -- Generating done
+[0.627s] -- Build files have been written to: /home/hema/ankhrobotics.github.io/Lectures/ros2_course/dolly_ws/build/dolly_ignition

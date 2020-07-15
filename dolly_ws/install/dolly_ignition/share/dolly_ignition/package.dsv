@@ -1,0 +1,5 @@
+source;share/dolly_ignition/local_setup.bash
+source;share/dolly_ignition/local_setup.dsv
+source;share/dolly_ignition/local_setup.ps1
+source;share/dolly_ignition/local_setup.sh
+source;share/dolly_ignition/local_setup.zsh
